@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileFinal/FileFinal.iml" filepath="$PROJECT_DIR$/FileFinal/FileFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileReader/FileReader.iml" filepath="$PROJECT_DIR$/FileReader/FileReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileWriter/FileWriter.iml" filepath="$PROJECT_DIR$/FileWriter/FileWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java -Udemy.iml" filepath="$PROJECT_DIR$/.idea/Java -Udemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScannFiles/ScannFiles.iml" filepath="$PROJECT_DIR$/ScannFiles/ScannFiles.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/EmployeeOutsourced/org.eclipse.jdt.apt.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/FinalTry/org.eclipse.jdt.apt.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/FinalTry/org.eclipse.jdt.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Heranca/org.eclipse.jdt.apt.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Order/org.eclipse.jdt.apt.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/ProductP/org.eclipse.jdt.apt.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Reservationtry/.indexes/e4/50" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Reservationtry/org.eclipse.jdt.apt.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/ScannFiles" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.e4.workbench" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.eclemma.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.emf.common.ui" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.jdt.junit" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.jdt.junit.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Reservationtry" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.m2e.jdt" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.mylyn.context.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.mylyn.tasks.ui" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.oomph.setup.ui" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.ui.editors" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.ui.ide" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.userstorage.oauth" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

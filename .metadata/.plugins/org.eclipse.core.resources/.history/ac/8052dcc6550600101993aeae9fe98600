@@ -1,0 +1,43 @@
+package src;
+
+import java.util.Scanner;
+
+import model.entities.Account;
+import model.exceptions.DomainException;
+
+public class Program {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+		try {
+			System.out.println("Enter account data");
+			System.out.println("Number: ");
+			int number = sc.nextInt();
+			
+			sc.nextLine();
+			
+			System.out.println("Holder: ");
+			String holder = sc.nextLine();
+			
+			System.out.println("Inicial balance: ");
+			double balance = sc.nextDouble();
+			
+			System.out.println("Withdraw limit: ");
+			double withL = sc.nextDouble();
+			
+			Account account = new Account(number, holder, balance, withL);
+			
+			System.out.println("Enter amount for withdraw: ");
+			Double amount = sc.nextDouble();
+			
+			account.withdraw(amount);
+			
+			System.out.println("New balance: " + account.getBalance());
+			
+		} catch (DomainException e) {
+			System.out.println("Withdraw error: " + e.getMessage());
+		}
+		sc.close();
+	}
+}
+
